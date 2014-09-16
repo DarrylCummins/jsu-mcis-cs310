@@ -4,7 +4,7 @@ Library           HelloWorldKeywords
 *** Test Cases ***
 Say Hello
     Greet everyone
-Say Hello In Pig Latin
+Say Hello Backwards
     Reverse greet everyone
 Make Sure You're Saying Hello
     ${result}=      Greet everyone
